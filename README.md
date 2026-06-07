@@ -3,6 +3,13 @@
 ## Project Overview
 This project simulates a Healthcare IoT environment using a Cowrie Honeypot to capture and analyze attacker behavior.
 
+## Objectives
+- Detect unauthorized access attempts
+- Monitor attacker behavior
+- Capture executed commands
+- Analyze malware download attempts
+- Visualize security events in real time
+  
 ## Tools Used
 - Kali Linux
 - Docker
@@ -11,7 +18,7 @@ This project simulates a Healthcare IoT environment using a Cowrie Honeypot to c
 - Promtail
 - Grafana
 - GitHub
-
+- 
 ## Features
 - SSH Honeypot
 - Login Attempt Monitoring
